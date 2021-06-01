@@ -28,4 +28,4 @@ API REST encargada de realizar **reservas** para un restaurante empleando **Stri
 2.- Añadir más funcionalidades a los controladores para hacer más completa la aplicación.
 
 #### NOTA
-He cargado el application.properties en este repositorio, pero la información sensible la he rellenado con **xxxx**
+He cargado el application.properties en este repositorio, la información sensible la he rellenado con **xxxx**.
