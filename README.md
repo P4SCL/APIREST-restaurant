@@ -2,7 +2,7 @@
 
 API REST encargada de realizar **reservas** para un restaurante empleando **Stripe** como servicio para gestionar los pagos.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LKmGSg4qhizjqeDPHJC%2F-LNYSvjOO0iDvi4jFPoT%2F-LNYTa1g9lqk3aPeXmh3%2Fimage.png?alt=media&token=270371cc-0d76-449b-a892-0bccc0ed8fa4)
+![](https://firebasestorage.googleapis.com/v0/b/certificadoapp-3bb25.appspot.com/o/imagenes%2F3%20capas.jpg?alt=media&token=7045f5de-c5ee-4b5c-916c-a2f816c63be1)
 
 ### Tecnologías empleadas:
 - Java 8.
